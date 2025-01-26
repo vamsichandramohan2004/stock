@@ -12,10 +12,6 @@ Fully responsive design.
 Dynamic routing for navigation.
 Integrated with backend APIs for real-time data.
 
-## ! Navigate to your frontend project directory:
-## ex: cd fe/portfolio
-## open terminal and run command : npm start
-
 ## Backend Description:
 The backend is powered by Spring Boot using Java 21. 
 It acts as the server-side engine, handling all business logic, data processing, and API management.

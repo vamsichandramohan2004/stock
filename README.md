@@ -26,12 +26,12 @@ Scalable architecture to handle increased user load.
 
 ## How to run:
 ## Download from the github
-## !! Navigate to your frontend project directory:
-## ! ex: cd fe/portfolio
+## !! Navigate to your frontend project directory
+! ex: cd fe/portfolio
 ## !! open terminal and run command : npm start
 
 ## NOTE: Please Make Sure That You have installed maven and set path for Environment Variables.
-## ! Open VS code Naviggate to Backend directory:
-## !! ex: cd /portfolio.
+## ! Open VS code Naviggate to Backend directory
+!! ex: cd /portfolio.
 ## !! type the command: mvn clean install
 ## !! to run type: mvn spring-boot:run
